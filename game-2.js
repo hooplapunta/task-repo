@@ -1,3 +1,7 @@
+// Game doesn't end when hitting the top
+// Left/Right moves the piece in the direction continuously
+
+
 let play = false;
 const W = 640, H = 640;
 const t = document.getElementById('t');
